@@ -44,35 +44,35 @@ public:
         }
         // x cases
         if(a[0] =='x' && a[1]=='x' && a[2] == 'x'){
-            cout<<"player 2 wins ";
+            cout<<"Computer wins ";
             return true;
         }
         else if(a[3] =='x' && a[4]=='x' && a[5] == 'x'){
-            cout<<"player 2 wins ";
+            cout<<"Computer wins ";
             return true;
         }
         else if(a[6] =='x' && a[7]=='x' && a[8] == 'x'){
-            cout<<"player 2 wins ";
+            cout<<"Computer wins ";
             return true;
         }
         else if(a[0] =='x' && a[3]=='x' && a[6] == 'x'){
-            cout<<"player 2 wins ";
+            cout<<"Computer wins ";
             return true;
         }
         else if(a[1] =='x' && a[4]=='x' && a[7] == 'x'){
-            cout<<"player 2 wins ";
+            cout<<"Computer wins ";
             return true;
         }
         else if(a[2] =='x' && a[5]=='x' && a[8] == 'x'){
-            cout<<"player 2 wins ";
+            cout<<"Computer wins ";
             return true;
         }
         else if(a[0] =='x' && a[4]=='x' && a[8] == 'x'){
-            cout<<"player 2 wins ";
+            cout<<"Computer wins ";
             return true;
         }
         else if(a[2] =='x' && a[4]=='x' && a[6] == 'x'){
-            cout<<"player 2 wins ";
+            cout<<"Computer wins ";
             return true;
         }
         else if(counter == 9){
