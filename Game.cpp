@@ -9,15 +9,7 @@ public:
                "%c  \n", a[0], a[1], a[2], a[3], a[4], a[5], a[6], a[7], a[8]);
 
     }
-    static bool checkwin(char a[]){
-        for (int i = 0; i < 8; i++) {
-            if(a[i] != 111 || a[i] != 120)
-                continue;
-            else{
-                cout<<"game draw";
-                return true;
-            }
-        }
+    static bool checkwin(char a[],int counter){
         if(a[0] =='o' && a[1]=='o' && a[2] == 'o'){
             cout<<"player 1 wins ";
             return true;
@@ -81,6 +73,10 @@ public:
         }
         else if(a[2] =='x' && a[4]=='x' && a[6] == 'x'){
             cout<<"player 2 wins ";
+            return true;
+        }
+        else if(counter == 9){
+            cout<<"GAME DRAW !";
             return true;
         }
         return false;
