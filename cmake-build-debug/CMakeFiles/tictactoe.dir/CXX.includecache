@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/anonymous/CLionProjects/tictactoe/Game.cpp
+iostream
+-
+
+/home/anonymous/CLionProjects/tictactoe/main.cpp
+iostream
+-
+Game.cpp
+/home/anonymous/CLionProjects/tictactoe/Game.cpp
+
