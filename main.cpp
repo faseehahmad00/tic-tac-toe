@@ -12,7 +12,7 @@ int main() {
     while (true) {
         //Computer's Turn
         while (true) {
-            int num = rand() % 8 + 1;
+            int num = rand() % 9;
             if (array[num] != 'o' && array[num] != 'x') {
                 array[num] = 'x';
                 counter++;

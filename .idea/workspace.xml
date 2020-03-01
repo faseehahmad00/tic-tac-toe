@@ -116,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583054304688</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added random function">
+      <created>1583055912311</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1583055912311</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,34 +140,34 @@
       <screen x="0" y="18" width="1366" height="750" />
     </state>
     <state x="142" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.18.1366.750@0.18.1366.750" timestamp="1583047323557" />
-    <state x="281" y="18" key="CommitChangelistDialog2" timestamp="1583054304573">
+    <state x="281" y="18" key="CommitChangelistDialog2" timestamp="1583055912217">
       <screen x="0" y="18" width="1366" height="750" />
     </state>
-    <state x="281" y="18" key="CommitChangelistDialog2/0.18.1366.750@0.18.1366.750" timestamp="1583054304573" />
+    <state x="281" y="18" key="CommitChangelistDialog2/0.18.1366.750@0.18.1366.750" timestamp="1583055912217" />
     <state x="466" y="149" key="FileChooserDialogImpl" timestamp="1583047318938">
       <screen x="0" y="18" width="1366" height="750" />
     </state>
     <state x="466" y="149" key="FileChooserDialogImpl/0.18.1366.750@0.18.1366.750" timestamp="1583047318938" />
-    <state width="1320" height="528" key="GridCell.Tab.0.bottom" timestamp="1583055656495">
+    <state width="1320" height="528" key="GridCell.Tab.0.bottom" timestamp="1583056101282">
       <screen x="0" y="18" width="1366" height="750" />
     </state>
-    <state width="1320" height="528" key="GridCell.Tab.0.bottom/0.18.1366.750@0.18.1366.750" timestamp="1583055656495" />
-    <state width="1320" height="528" key="GridCell.Tab.0.center" timestamp="1583055656495">
+    <state width="1320" height="528" key="GridCell.Tab.0.bottom/0.18.1366.750@0.18.1366.750" timestamp="1583056101282" />
+    <state width="1320" height="528" key="GridCell.Tab.0.center" timestamp="1583056101281">
       <screen x="0" y="18" width="1366" height="750" />
     </state>
-    <state width="1320" height="528" key="GridCell.Tab.0.center/0.18.1366.750@0.18.1366.750" timestamp="1583055656495" />
-    <state width="1320" height="528" key="GridCell.Tab.0.left" timestamp="1583055656494">
+    <state width="1320" height="528" key="GridCell.Tab.0.center/0.18.1366.750@0.18.1366.750" timestamp="1583056101281" />
+    <state width="1320" height="528" key="GridCell.Tab.0.left" timestamp="1583056101280">
       <screen x="0" y="18" width="1366" height="750" />
     </state>
-    <state width="1320" height="528" key="GridCell.Tab.0.left/0.18.1366.750@0.18.1366.750" timestamp="1583055656494" />
-    <state width="1320" height="528" key="GridCell.Tab.0.right" timestamp="1583055656495">
+    <state width="1320" height="528" key="GridCell.Tab.0.left/0.18.1366.750@0.18.1366.750" timestamp="1583056101280" />
+    <state width="1320" height="528" key="GridCell.Tab.0.right" timestamp="1583056101282">
       <screen x="0" y="18" width="1366" height="750" />
     </state>
-    <state width="1320" height="528" key="GridCell.Tab.0.right/0.18.1366.750@0.18.1366.750" timestamp="1583055656495" />
-    <state x="279" y="127" key="Vcs.Push.Dialog.v2" timestamp="1583054306324">
+    <state width="1320" height="528" key="GridCell.Tab.0.right/0.18.1366.750@0.18.1366.750" timestamp="1583056101282" />
+    <state x="279" y="127" key="Vcs.Push.Dialog.v2" timestamp="1583056000660">
       <screen x="0" y="18" width="1366" height="750" />
     </state>
-    <state x="279" y="127" key="Vcs.Push.Dialog.v2/0.18.1366.750@0.18.1366.750" timestamp="1583054306324" />
+    <state x="279" y="127" key="Vcs.Push.Dialog.v2/0.18.1366.750@0.18.1366.750" timestamp="1583056000660" />
     <state x="406" y="35" key="refactoring.ChangeSignatureDialog" timestamp="1583047965762">
       <screen x="0" y="18" width="1366" height="750" />
     </state>
