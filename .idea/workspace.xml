@@ -13,10 +13,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2684d175-14d2-4b92-9b71-b46c4c59d1a0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Game.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tictactoe.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tictactoe.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/tictactoe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/tictactoe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582997855947</updated>
       <workItem from="1582997858330" duration="6663000" />
-      <workItem from="1583061526351" duration="1891000" />
+      <workItem from="1583061526351" duration="3397000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1583004150861</created>
@@ -123,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583055912311</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="bugs fixed.">
+      <created>1583063670314</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1583063670314</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,17 +136,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial" />
     <MESSAGE value="added random function" />
-    <option name="LAST_COMMIT_MESSAGE" value="added random function" />
+    <MESSAGE value="bugs fixed." />
+    <option name="LAST_COMMIT_MESSAGE" value="bugs fixed." />
   </component>
   <component name="WindowStateProjectService">
     <state x="142" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583047323557">
       <screen x="0" y="18" width="1366" height="750" />
     </state>
     <state x="142" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.18.1366.750@0.18.1366.750" timestamp="1583047323557" />
-    <state x="281" y="18" key="CommitChangelistDialog2" timestamp="1583055912217">
+    <state x="281" y="18" key="CommitChangelistDialog2" timestamp="1583063670110">
       <screen x="0" y="18" width="1366" height="750" />
     </state>
-    <state x="281" y="18" key="CommitChangelistDialog2/0.18.1366.750@0.18.1366.750" timestamp="1583055912217" />
+    <state x="281" y="18" key="CommitChangelistDialog2/0.18.1366.750@0.18.1366.750" timestamp="1583063670110" />
     <state x="466" y="149" key="FileChooserDialogImpl" timestamp="1583047318938">
       <screen x="0" y="18" width="1366" height="750" />
     </state>
@@ -168,10 +172,10 @@
       <screen x="0" y="18" width="1366" height="750" />
     </state>
     <state x="476" y="94" key="RollbackChangesDialog/0.18.1366.750@0.18.1366.750" timestamp="1583062754822" />
-    <state x="279" y="127" key="Vcs.Push.Dialog.v2" timestamp="1583056000660">
+    <state x="279" y="127" key="Vcs.Push.Dialog.v2" timestamp="1583064399318">
       <screen x="0" y="18" width="1366" height="750" />
     </state>
-    <state x="279" y="127" key="Vcs.Push.Dialog.v2/0.18.1366.750@0.18.1366.750" timestamp="1583056000660" />
+    <state x="279" y="127" key="Vcs.Push.Dialog.v2/0.18.1366.750@0.18.1366.750" timestamp="1583064399318" />
     <state x="362" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1583061531103">
       <screen x="0" y="18" width="1366" height="750" />
     </state>
