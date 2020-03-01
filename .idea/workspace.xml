@@ -14,7 +14,6 @@
     <list default="true" id="2684d175-14d2-4b92-9b71-b46c4c59d1a0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Game.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tictactoe.dir/Game.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tictactoe.dir/Game.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tictactoe.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tictactoe.dir/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/tictactoe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/tictactoe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
@@ -80,6 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582997855947</updated>
       <workItem from="1582997858330" duration="6663000" />
+      <workItem from="1583061526351" duration="1891000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1583004150861</created>
@@ -148,26 +148,34 @@
       <screen x="0" y="18" width="1366" height="750" />
     </state>
     <state x="466" y="149" key="FileChooserDialogImpl/0.18.1366.750@0.18.1366.750" timestamp="1583047318938" />
-    <state width="1320" height="528" key="GridCell.Tab.0.bottom" timestamp="1583056101282">
+    <state width="1320" height="528" key="GridCell.Tab.0.bottom" timestamp="1583062615296">
       <screen x="0" y="18" width="1366" height="750" />
     </state>
-    <state width="1320" height="528" key="GridCell.Tab.0.bottom/0.18.1366.750@0.18.1366.750" timestamp="1583056101282" />
-    <state width="1320" height="528" key="GridCell.Tab.0.center" timestamp="1583056101281">
+    <state width="1320" height="528" key="GridCell.Tab.0.bottom/0.18.1366.750@0.18.1366.750" timestamp="1583062615296" />
+    <state width="1320" height="528" key="GridCell.Tab.0.center" timestamp="1583062615296">
       <screen x="0" y="18" width="1366" height="750" />
     </state>
-    <state width="1320" height="528" key="GridCell.Tab.0.center/0.18.1366.750@0.18.1366.750" timestamp="1583056101281" />
-    <state width="1320" height="528" key="GridCell.Tab.0.left" timestamp="1583056101280">
+    <state width="1320" height="528" key="GridCell.Tab.0.center/0.18.1366.750@0.18.1366.750" timestamp="1583062615296" />
+    <state width="1320" height="528" key="GridCell.Tab.0.left" timestamp="1583062615295">
       <screen x="0" y="18" width="1366" height="750" />
     </state>
-    <state width="1320" height="528" key="GridCell.Tab.0.left/0.18.1366.750@0.18.1366.750" timestamp="1583056101280" />
-    <state width="1320" height="528" key="GridCell.Tab.0.right" timestamp="1583056101282">
+    <state width="1320" height="528" key="GridCell.Tab.0.left/0.18.1366.750@0.18.1366.750" timestamp="1583062615295" />
+    <state width="1320" height="528" key="GridCell.Tab.0.right" timestamp="1583062615296">
       <screen x="0" y="18" width="1366" height="750" />
     </state>
-    <state width="1320" height="528" key="GridCell.Tab.0.right/0.18.1366.750@0.18.1366.750" timestamp="1583056101282" />
+    <state width="1320" height="528" key="GridCell.Tab.0.right/0.18.1366.750@0.18.1366.750" timestamp="1583062615296" />
+    <state x="476" y="94" key="RollbackChangesDialog" timestamp="1583062754822">
+      <screen x="0" y="18" width="1366" height="750" />
+    </state>
+    <state x="476" y="94" key="RollbackChangesDialog/0.18.1366.750@0.18.1366.750" timestamp="1583062754822" />
     <state x="279" y="127" key="Vcs.Push.Dialog.v2" timestamp="1583056000660">
       <screen x="0" y="18" width="1366" height="750" />
     </state>
     <state x="279" y="127" key="Vcs.Push.Dialog.v2/0.18.1366.750@0.18.1366.750" timestamp="1583056000660" />
+    <state x="362" y="220" key="com.intellij.ide.util.TipDialog" timestamp="1583061531103">
+      <screen x="0" y="18" width="1366" height="750" />
+    </state>
+    <state x="362" y="220" key="com.intellij.ide.util.TipDialog/0.18.1366.750@0.18.1366.750" timestamp="1583061531103" />
     <state x="406" y="35" key="refactoring.ChangeSignatureDialog" timestamp="1583047965762">
       <screen x="0" y="18" width="1366" height="750" />
     </state>

@@ -11,30 +11,30 @@ public:
 
     }
 
-    static bool checkwin(char *a, int counter) {
+    static bool checkwin(const char *a, int counter) {
         if (a[0] == 'o' && a[1] == 'o' && a[2] == 'o') {
-            cout << "player 1 wins \n";
+            cout << "You win \n";
             return true;
         } else if (a[3] == 'o' && a[4] == 'o' && a[5] == 'o') {
-            cout << "player 1 wins \n";
+            cout << "You win \n";
             return true;
         } else if (a[6] == 'o' && a[7] == 'o' && a[8] == 'o') {
-            cout << "player 1 wins \n";
+            cout << "You win \n";
             return true;
         } else if (a[0] == 'o' && a[3] == 'o' && a[6] == 'o') {
-            cout << "player 1 wins \n";
+            cout << "You win \n";
             return true;
         } else if (a[1] == 'o' && a[4] == 'o' && a[7] == 'o') {
-            cout << "player 1 wins \n";
+            cout << "You win \n";
             return true;
         } else if (a[2] == 'o' && a[5] == 'o' && a[8] == 'o') {
-            cout << "player 1 wins \n";
+            cout << "You win \n";
             return true;
         } else if (a[0] == 'o' && a[4] == 'o' && a[8] == 'o') {
-            cout << "player 1 wins \n";
+            cout << "You win \n";
             return true;
         } else if (a[2] == 'o' && a[4] == 'o' && a[6] == 'o') {
-            cout << "player 1 wins \n";
+            cout << "You win \n";
             return true;
         }
         // x cases

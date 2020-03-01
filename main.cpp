@@ -9,21 +9,8 @@ int main() {
     char array[] = {'1', '2', '3', '4', '5', '6', '7', '8', '9'};
     int counter = 0;
     int choice;
+    Game::drawboard(array);
     while (true) {
-        //Computer's Turn
-        while (true) {
-            int num = rand() % 9;
-            if (array[num] != 'o' && array[num] != 'x') {
-                array[num] = 'x';
-                counter++;
-                break;
-            }
-        }
-        system("clear");
-        Game::drawboard(array);   //check win cases
-        if (Game::checkwin(array, counter)) {
-            return 0;
-        }
         cout << "\n\nYour turn.\nPlease select an option : ";
         cin >> choice;               //players choice
         if (choice > 0 && choice < 10) {
@@ -40,5 +27,22 @@ int main() {
         }
         system("clear");
         Game::drawboard(array);
+        if (Game::checkwin(array, counter)) {
+            return 0;
+        }
+        //Computer's Turn
+        while (true) {
+            int num = rand() % 9;
+            if (array[num] != 'o' && array[num] != 'x') {
+                array[num] = 'x';
+                counter++;
+                break;
+            }
+        }
+        system("clear");
+        Game::drawboard(array);   //check win cases
+        if (Game::checkwin(array, counter)) {
+            return 0;
+        }
     }
 }
