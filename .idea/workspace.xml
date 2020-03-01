@@ -12,11 +12,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2684d175-14d2-4b92-9b71-b46c4c59d1a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Text File" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.sh" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Game.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tictactoe.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/tictactoe.dir/main.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/tictactoe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/tictactoe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +26,6 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -35,23 +33,39 @@
     <setting file="file://$PROJECT_DIR$/main.cpp" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1YUWs0vOwTqNj1yPaZtbHq1edm0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/run.sh" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Shell Script.Unnamed">
     <configuration name="tictactoe" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="tictactoe" TARGET_NAME="tictactoe" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="tictactoe" RUN_TARGET_NAME="tictactoe">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Unnamed" type="ShConfigurationType" nameIsGenerated="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/run.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.tictactoe" />
+      <item itemvalue="Shell Script.Unnamed" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -79,14 +93,23 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial" />
     <option name="LAST_COMMIT_MESSAGE" value="initial" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="142" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583047323557">
+      <screen x="0" y="18" width="1366" height="750" />
+    </state>
+    <state x="142" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.18.1366.750@0.18.1366.750" timestamp="1583047323557" />
     <state x="281" y="18" key="CommitChangelistDialog2" timestamp="1583004150691">
       <screen x="0" y="18" width="1366" height="750" />
     </state>
     <state x="281" y="18" key="CommitChangelistDialog2/0.18.1366.750@0.18.1366.750" timestamp="1583004150691" />
+    <state x="466" y="149" key="FileChooserDialogImpl" timestamp="1583047318938">
+      <screen x="0" y="18" width="1366" height="750" />
+    </state>
+    <state x="466" y="149" key="FileChooserDialogImpl/0.18.1366.750@0.18.1366.750" timestamp="1583047318938" />
     <state width="1320" height="528" key="GridCell.Tab.0.bottom" timestamp="1583004617629">
       <screen x="0" y="18" width="1366" height="750" />
     </state>
@@ -107,9 +130,9 @@
       <screen x="0" y="18" width="1366" height="750" />
     </state>
     <state x="279" y="127" key="Vcs.Push.Dialog.v2/0.18.1366.750@0.18.1366.750" timestamp="1583004154352" />
-    <state x="406" y="35" key="refactoring.ChangeSignatureDialog" timestamp="1582997978888">
+    <state x="406" y="35" key="refactoring.ChangeSignatureDialog" timestamp="1583047965762">
       <screen x="0" y="18" width="1366" height="750" />
     </state>
-    <state x="406" y="35" key="refactoring.ChangeSignatureDialog/0.18.1366.750@0.18.1366.750" timestamp="1582997978888" />
+    <state x="406" y="35" key="refactoring.ChangeSignatureDialog/0.18.1366.750@0.18.1366.750" timestamp="1583047965762" />
   </component>
 </project>

@@ -12,13 +12,15 @@ int main() {
     a:
     cout << "\n\nPlease select an option : ";
     cin >> choice;
-    for (int i = 0; i <= 9; i++) {
+    for (int i = 0; i <= 9; i++) {                   //players choice
         if (choice == array[i]) {
             array[i] = 'o';
             counter++;
         }
     }
-    if (Game::checkwin(array, counter)) { return 0; }
+    system("clear");
+    Game::drawboard(array);
+    if (Game::checkwin(array, counter)) { return 0; }  //checking win cases
     //COMPUTERS TURN
     for (int i = 8; i >= 0; i--) {
         if (array[i] != 'o' && array[i] != 'x') {
@@ -27,7 +29,8 @@ int main() {
             break;
         }
     }
+    system("clear");
     Game::drawboard(array);
-    if (Game::checkwin(array, counter)) { return 0; }
+    if (Game::checkwin(array, counter)) { return 0; }   //check win cases
     else { goto a; }
 }
