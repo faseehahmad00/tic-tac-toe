@@ -10,7 +10,6 @@ public:
                "%c  \n", a[0], a[1], a[2], a[3], a[4], a[5], a[6], a[7], a[8]);
 
     }
-
     static bool checkwin(char *a, int counter) {
         if (a[0] == 'o' && a[1] == 'o' && a[2] == 'o') {
             cout << "player 1 wins \n";

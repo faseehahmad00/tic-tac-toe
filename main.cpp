@@ -5,6 +5,7 @@ using namespace std;
 
 
 int main() {
+    system("clear");
     char array[] = {'1', '2', '3', '4', '5', '6', '7', '8', '9'};
     int counter = 0;
     char choice;
@@ -22,9 +23,10 @@ int main() {
     Game::drawboard(array);
     if (Game::checkwin(array, counter)) { return 0; }  //checking win cases
     //COMPUTERS TURN
-    for (int i = 8; i >= 0; i--) {
-        if (array[i] != 'o' && array[i] != 'x') {
-            array[i] = 'x';
+    while (true) {
+        int num = rand() % 8;
+        if (array[num] != 'o' && array[num] != 'x') {
+            array[num] = 'x';
             counter++;
             break;
         }
